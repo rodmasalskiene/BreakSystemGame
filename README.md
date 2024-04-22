@@ -6,6 +6,6 @@ Sort a number between 0 and 3, you guess a num and if the guess matches, your Li
 
 <h2>Summary</h2>
 It's possible to execute Linux commands by using the Subprocess library;<br>
-You can also delete/edit sensitive system files with --no-preserve-root;<br>
+You can delete/edit sensitive system files with --no-preserve-root;<br>
 <br>
 Don't execute that in your computer, create a virtual machine for that.
