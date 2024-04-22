@@ -1,5 +1,5 @@
 <h2>About</h2>
-It's just a simple code created with the goal to learn about using terminal linux command and manipulating files in a python script.
+It's just a simple code created with the goal to learn about using terminal linux command and manipulating files with a python script.
 
 <h2>Code</h2>
 Sort a number between 0 and 3, you guess a num and if the guess matches, your Linux OS breaks.
